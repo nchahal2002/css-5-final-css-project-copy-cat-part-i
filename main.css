@@ -1,0 +1,44 @@
+
+.logo {
+    width: 160px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.collapse-navbar-collapse {
+    width: 22px;
+    height: 22px;
+    z-index: 10002;
+    width: 75%;
+    transform: none;
+    visibility: visible;
+}
+
+.btn, .btn-outline-success {
+    width: 43px;
+    height: 43px;
+    vertical-align: middle;
+}
+
+.relative {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+.form * {
+    background-image: url('./assets/Mainimage.webp');
+    background-size: cover;
+    height: 60vh;
+}
+
+.page-width {
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+}
+
+.navbar-brand * {
+    width: 160px;
+    height: 20px;
+    vertical-align: middle;
+}
